@@ -246,7 +246,7 @@ Just look as closely as possible at this table:
 |++expression, --expression
 
 |Other unary operators
-|-, + ,!, ~
+|-, + ,!
 
 |Type casting
 |(type)expression
@@ -265,9 +265,6 @@ Just look as closely as possible at this table:
 
 |Relational operators
 |<, <=, >, >=
-
-|Equal & not-equal operators
-|==, !=
 
 |Equal & not-equal operators
 |==, !=
