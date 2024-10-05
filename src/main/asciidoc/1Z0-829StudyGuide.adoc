@@ -389,7 +389,7 @@ Performance Trade-off: The process of interning strings itself can be costly, es
 *Solution 2*: Concatenate strings during compilation
 [source,java]
 ----
-“String foo = 1 + "foo";
+String foo = "1 + "foo";
 String bar = "1foo";
 if(foo==bar)     // true
 ----
